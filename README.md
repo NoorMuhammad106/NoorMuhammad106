@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @NoorMuhammad106
+# 👋 Hi, I’m @NoorMuhammad
 
 - 👀 I’m interested in AI, Machine Learning, Data Science, and Deep Learning.
 - 🌱 I’m currently learning **FastAPI**, **Next.js**, and exploring **Generative AI** technologies.
